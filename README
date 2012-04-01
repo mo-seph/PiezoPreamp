@@ -1,0 +1,6 @@
+This is a clone of Alex Rice's Piezo preamp, from the drawings at
+http://www.zachpoff.com/diy-resources/alex-rice-piezo-preamplifier/
+
+I've setup the .brd file for single sided SMD, with the aim of being
+as small as possible, hopefully to fit in a fizzy drink bottle lid
+like my hydrophones.
